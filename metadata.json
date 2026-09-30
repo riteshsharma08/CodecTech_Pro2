@@ -1,0 +1,6 @@
+{
+  "name": "PaySphere - FinTech Digital Wallet & Payments",
+  "description": "Enterprise-grade peer-to-peer digital wallet with real-time balance tracking, two-factor authentication (2FA), intelligent fraud detection alerts, payment gateway top-ups, and interactive financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
